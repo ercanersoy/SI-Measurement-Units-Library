@@ -106,7 +106,7 @@ typedef struct upper_decimal_16
 } SI_upper_decimal_16;
 
 // Upper 32 byte decimal unit
-typedef struct lower_upper_32
+typedef struct upper_decimal_32
 {
     int32_t size;
     SI_upper_prefix prefix;

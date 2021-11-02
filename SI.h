@@ -11,16 +11,16 @@
 // Define lower prefix type
 typedef enum lower_prefixes
 {
-    d  =   1,
-    c  =   2,
-    m  =   3,
-    mc =   6,
-    n  =   9,
-    p  =  12,
-    f  =  15,
-    a  =  18,
-    z  =  21,
-    y  =  24
+    d  =  1,
+    c  =  2,
+    m  =  3,
+    mc =  6,
+    n  =  9,
+    p  = 12,
+    f  = 15,
+    a  = 18,
+    z  = 21,
+    y  = 24
 } SI_lower_prefix;
 
 // Define upper prefix type

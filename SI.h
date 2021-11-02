@@ -12,31 +12,31 @@
 // Define lower prefix type
 typedef enum lower_prefixes
 {
-    d  =  1,
-    c  =  2,
-    m  =  3,
-    mc =  6,
-    n  =  9,
-    p  = 12,
-    f  = 15,
-    a  = 18,
-    z  = 21,
-    y  = 24
+    SI_d  =  1,
+    SI_c  =  2,
+    SI_m  =  3,
+    SI_mc =  6,
+    SI_n  =  9,
+    SI_p  = 12,
+    SI_f  = 15,
+    SI_a  = 18,
+    SI_z  = 21,
+    SI_y  = 24
 } SI_lower_prefix;
 
 // Define upper prefix type
 typedef enum upper_prefixes
 {
-    da =  1,
-    h  =  2,
-    k  =  3,
-    M  =  6,
-    G  =  9,
-    T  = 12,
-    P  = 15,
-    E  = 18,
-    Z  = 21,
-    Y  = 24
+    SI_da =  1,
+    SI_h  =  2,
+    SI_k  =  3,
+    SI_M  =  6,
+    SI_G  =  9,
+    SI_T  = 12,
+    SI_P  = 15,
+    SI_E  = 18,
+    SI_Z  = 21,
+    SI_Y  = 24
 } SI_upper_prefix;
 
 // Define lower units

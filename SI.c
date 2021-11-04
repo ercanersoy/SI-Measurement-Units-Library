@@ -5,8 +5,6 @@
 #include <math.h>
 #include "SI.h"
 
-#include <stdio.h>
-
 // Convert lower function
 SI_lower SI_convert_lower(long double size, SI_lower_prefix prefix)
 {

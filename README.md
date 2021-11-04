@@ -48,7 +48,7 @@ This software licensed under CC0-1.0 License.
 
 ### Type as Upper Units
 
-`SI_lower` struct is for upper units.
+`SI_upper` struct is for upper units.
 
 `size` is `long double` field as size.
 

@@ -1,5 +1,8 @@
 // SI.h - Test source file
+
 // Written by Ercan Ersoy.
+// Copyright (c) 2021 Ercan Ersoy
+// This file licensed under CC0-1.0 License.
 
 // Include header files
 #include <stdio.h>

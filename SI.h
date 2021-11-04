@@ -1,5 +1,8 @@
 // SI.h - Main header file
+
 // Written by Ercan Ersoy.
+// Copyright (c) 2021 Ercan Ersoy
+// This file licensed under CC0-1.0 License.
 
 #ifndef SI_H
 #define SI_H

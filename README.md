@@ -2,13 +2,13 @@
 
 SI meausrement units library
 
-Copyright (c) 2021 Ercan Ersoy
+Copyright (c) 2021-2022 Ercan Ersoy
 
-This software licensed under CC0-1.0 License.
+This software is licensed under CC0-1.0 License.
 
 ## Unit Enumerators
 
-## Enumerators as Lower Units
+### Enumerators as Lower Units
 
 * SI_lower_none
 * SI_d
@@ -22,7 +22,7 @@ This software licensed under CC0-1.0 License.
 * SI_z
 * SI_y
 
-## Enumerators as Upper Units
+### Enumerators as Upper Units
 
 * SI_upper_none
 * SI_da

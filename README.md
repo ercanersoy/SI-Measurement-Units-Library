@@ -4,7 +4,7 @@ SI meausrement units library
 
 Copyright (c) 2021-2022 Ercan Ersoy
 
-This software is licensed under CC0-1.0 License.
+This software is licensed under CC0-1.0 Universal License.
 
 ## Unit Enumerators
 
